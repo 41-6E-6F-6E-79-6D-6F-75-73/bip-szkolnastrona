@@ -1,4 +1,5 @@
-![Przykład](https://ibb.co/NCm3Gsy)
+![](https://dl.imgdrop.io/file/aed8b140-8472-4813-922b-7ce35ef93c9e/2024/10/20/Zrzut-ekranu-2024-10-20-19080481843775bd4bb654.png)
+
 # BIP - Biuletyn Informacji Publicznej
 **Biuletyn Informacji Publicznej (BIP)** to system, który w Polsce ma na celu zapewnienie obywatelom dostępu do informacji publicznej. Został wprowadzony na mocy ustawy o dostępie do informacji publicznej z 2001 roku. Oto kluczowe informacje dotyczące BIP:
 
